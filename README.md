@@ -1,0 +1,5 @@
+- Hi, I’m @Hakman21
+- I’m interested in food
+- I’m currently learning maths, physics and python
+- I’m looking to collaborate on anything lol lmk
+- How to reach me: nonono#2558 on discord
