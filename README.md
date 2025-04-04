@@ -1,5 +1,4 @@
 - Hi, I’m @Hakman21
-- I’m currently studying maths, physics and computer science
-- I’m looking to collaborate on anything lmk
+- I’m currently studying maths and computer science
 - github pro enjoyer
 - @hakman. on discord
