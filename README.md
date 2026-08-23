@@ -32,9 +32,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-<br>
-
 ### About Me
 
 - 🎓 Final-year BSc Computer Science & Mathematics @ University of Manchester (2024–2027)
@@ -43,9 +40,10 @@ me.say_hi()
 - 🏆 UK Mathematics Trust (2× Gold, 4× Silver), Kainos CodeCamp 2021 (1st place, 100+ entrants)
 - 🎹 Off-screen: Piano (LCM Grade 8), Gymnastics, Poker, Hiking
 
+<br>
+<br>
 
 <div align="center">
-
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
