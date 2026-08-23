@@ -13,9 +13,6 @@
     \:\__\        \:\__\        \:\__\        \:\__\        \:\__\        \:\__\    
      \/__/         \/__/         \/__/         \/__/         \/__/         \/__/    
 ```
-
-[![Website](https://img.shields.io/badge/Website-hakimahmed.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://hakimahmed.com)
-
 </div>
 
 <br>
