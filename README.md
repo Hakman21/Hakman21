@@ -35,6 +35,7 @@ me.say_hi()
 
 <br>
 ### About Me
+
 - 🎓 Final-year BSc Computer Science & Mathematics @ University of Manchester (2024–2027)
 - 💼 Previously: Engineering Intern @ **NatWest Group**, Data Science Intern @ **Financial Conduct Authority**
 - 🔢 Interested in quantitative finance, machine learning, and low-latency systems
