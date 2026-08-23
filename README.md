@@ -29,15 +29,12 @@ class SoftwareEngineer:
     def say_hi(self):
         print("Thanks for stopping by — have an amazing day.")
 
-
 me = SoftwareEngineer()
 me.say_hi()
 ```
 
 <br>
-
 ### About Me
-
 - 🎓 Final-year BSc Computer Science & Mathematics @ University of Manchester (2024–2027)
 - 💼 Previously: Engineering Intern @ **NatWest Group**, Data Science Intern @ **Financial Conduct Authority**
 - 🔢 Interested in quantitative finance, machine learning, and low-latency systems
