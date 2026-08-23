@@ -2,19 +2,6 @@
 
 # Hi, I'm Hakim 👋
 
-      ___           ___           ___           ___           ___           ___     
-     /\  \         /\  \         /|  |         /\  \         /\  \         /\  \    
-     \:\  \       /::\  \       |:|  |        |::\  \       /::\  \        \:\  \   
-      \:\  \     /:/\:\  \      |:|  |        |:|:\  \     /:/\:\  \        \:\  \  
-  ___ /::\  \   /:/ /::\  \   __|:|  |      __|:|\:\  \   /:/ /::\  \   _____\:\  \ 
- /\  /:/\:\__\ /:/_/:/\:\__\ /\ |:|__|____ /::::|_\:\__\ /:/_/:/\:\__\ /::::::::\__\
- \:\/:/  \/__/ \:\/:/  \/__/ \:\/:::::/__/ \:\~~\  \/__/ \:\/:/  \/__/ \:\~~\~~\/__/
-  \::/__/       \::/__/       \::/~~/~      \:\  \        \::/__/       \:\  \      
-   \:\  \        \:\  \        \:\~~\        \:\  \        \:\  \        \:\  \     
-    \:\__\        \:\__\        \:\__\        \:\__\        \:\__\        \:\__\    
-     \/__/         \/__/         \/__/         \/__/         \/__/         \/__/    
-
-
 Computer Science & Mathematics student at the **University of Manchester**, building across quant, ML, and full-stack systems.
 
 [![Email](https://img.shields.io/badge/Email-hakimmatinahmed%40hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hakimmatinahmed@hotmail.com)
