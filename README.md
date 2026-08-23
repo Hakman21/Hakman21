@@ -14,8 +14,6 @@
      \/__/         \/__/         \/__/         \/__/         \/__/         \/__/    
 ```
 
-[![Email](https://img.shields.io/badge/Email-hakimmatinahmed%40hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hakimmatinahmed@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hakim--m--ahmed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakim-m-ahmed)
 [![Website](https://img.shields.io/badge/Website-hakimahmed.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://hakimahmed.com)
 
 </div>
@@ -26,9 +24,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class QuantEngineer:
+class SoftwareEngineer:
     def __init__(self):
-        self.name       = "Hakim Matin Ahmed"
+        self.name       = "Hakman"
         self.university = "University of Manchester"
         self.degree     = "BSc Computer Science & Mathematics"
         self.year       = "Final Year (2024 - 2027)"
@@ -36,13 +34,14 @@ class QuantEngineer:
         self.experience = {
             "NatWest Group":                  "Engineering Intern",
             "Financial Conduct Authority":    "Data Science Intern",
+            "HSBC":                           "Investment Banking Intern",
         }
 
     def say_hi(self):
-        print("Thanks for stopping by — take a look through my work below.")
+        print("Thanks for stopping by — have an amazing day.")
 
 
-me = QuantEngineer()
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
@@ -86,34 +85,3 @@ me.say_hi()
 
 </div>
 
-<br>
-
-### Featured Projects
-
-<!--
-  Fill in each row once the repo is public:
-  1. Replace REPO-NAME-HERE with your actual repo name (e.g. options-pricing-tool)
-  2. The pin card renders automatically from the repo's name + description on GitHub
-  3. Delete any row for a project you don't end up pushing
--->
-
-<div align="center">
-
-[![Options Pricing Tool](https://github-readme-stats.vercel.app/api/pin/?username=Hakman21&repo=REPO-NAME-HERE&theme=default)](https://github.com/Hakman21/REPO-NAME-HERE)
-[![Limit Order Book](https://github-readme-stats.vercel.app/api/pin/?username=Hakman21&repo=REPO-NAME-HERE&theme=default)](https://github.com/Hakman21/REPO-NAME-HERE)
-
-[![Trade Master](https://github-readme-stats.vercel.app/api/pin/?username=Hakman21&repo=REPO-NAME-HERE&theme=default)](https://github.com/Hakman21/REPO-NAME-HERE)
-[![Radon](https://github-readme-stats.vercel.app/api/pin/?username=Hakman21&repo=REPO-NAME-HERE&theme=default)](https://github.com/Hakman21/REPO-NAME-HERE)
-
-</div>
-
-<br>
-
-### GitHub Stats
-
-<div align="center">
-
-![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakman21&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakman21&layout=compact&theme=default&hide_border=true)
-
-</div>
