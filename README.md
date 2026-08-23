@@ -34,6 +34,7 @@ me.say_hi()
 ```
 
 <br>
+
 ### About Me
 
 - 🎓 Final-year BSc Computer Science & Mathematics @ University of Manchester (2024–2027)
