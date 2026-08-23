@@ -1,3 +1,6 @@
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 """
       ___           ___           ___           ___           ___           ___     
      /\  \         /\  \         /|  |         /\  \         /\  \         /\  \    
@@ -11,10 +14,6 @@
     \:\__\        \:\__\        \:\__\        \:\__\        \:\__\        \:\__\    
      \/__/         \/__/         \/__/         \/__/         \/__/         \/__/    
 """
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 class SoftwareEngineer:
     def __init__(self):
@@ -76,4 +75,3 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
-
