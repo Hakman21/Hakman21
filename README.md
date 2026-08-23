@@ -20,11 +20,16 @@ class SoftwareEngineer:
         self.degree     = "BSc Computer Science & Mathematics"
         self.year       = "Final Year (2024 - 2027)"
         self.interests  = ["quantitative finance", "machine learning", "low-latency systems"]
+        self.hobbies    = ["Piano (LCM Grade 8)", "Gymnastics", "Poker", "Hiking"]
         self.experience = {
             "NatWest Group":                  "Engineering Intern",
             "Financial Conduct Authority":    "Data Science Intern",
             "HSBC":                           "Investment Banking Intern",
         }
+        self.awards = [
+            "UK Mathematics Trust — 2x Gold, 4x Silver",
+            "Kainos CodeCamp 2021 — 1st Place (100+ entrants)",
+        ]
 
     def say_hi(self):
         print("Thanks for stopping by — have an amazing day.")
@@ -32,13 +37,9 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-### About Me
+### Summary
 
-- 🎓 Final-year BSc Computer Science & Mathematics @ University of Manchester (2024–2027)
-- 💼 Previously: Engineering Intern @ **NatWest Group**, Data Science Intern @ **Financial Conduct Authority**
-- 🔢 Interested in quantitative finance, machine learning, and low-latency systems
-- 🏆 UK Mathematics Trust (2× Gold, 4× Silver), Kainos CodeCamp 2021 (1st place, 100+ entrants)
-- 🎹 Off-screen: Piano (LCM Grade 8), Gymnastics, Poker, Hiking
+Final-year Computer Science and Mathematics student at the University of Manchester, with internship experience spanning software engineering, data science, and investment banking. Currently building projects at the intersection of quantitative finance and machine learning, with a particular interest in fast, reliable systems.
 
 <br>
 <br>
