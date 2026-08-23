@@ -18,7 +18,7 @@ Computer Science & Mathematics student at the **University of Manchester**, buil
 - 💼 Previously: Engineering Intern @ **NatWest Group**, Data Science Intern @ **Financial Conduct Authority**
 - 🔢 Interested in quantitative finance, machine learning, and low-latency systems
 - 🏆 UK Mathematics Trust (2× Gold, 4× Silver), Kainos CodeCamp 2021 (1st place, 100+ entrants)
-- 🎹 Off-screen: piano (LCM Grade 8), gymnastics, poker
+- 🎹 Off-screen: Piano (LCM Grade 8), Gymnastics, Poker, Hiking
 
 ---
 
