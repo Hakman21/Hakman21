@@ -39,7 +39,7 @@ me.say_hi()
 ```
 ### Summary
 
-Final-year Computer Science and Mathematics student at the University of Manchester, with internship experience spanning software engineering, data science, and investment banking. I build projects at the intersection of quantitative finance and machine learning, with a particular interest in fast, reliable systems. Currently looking for a 2027 Software Engineering graduate role.
+Final-year Computer Science and Mathematics student at the University of Manchester, with internship experience spanning software engineering, data science, and investment banking. I build projects at the intersection of quantitative finance and machine learning, with a particular interest in fast, reliable systems. Currently looking for a 2027 graduate Software Engineering role.
 
 <br>
 
